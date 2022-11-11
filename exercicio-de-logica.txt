@@ -1,0 +1,14 @@
+Exercicio de Lógica de Programação
+
+Algorítimo para troca de pneu de carro:
+
+1- Sinalizar a via com o triângulo.
+2- pegar a ferramenta macaco e aciona-lo debaixo do carro.
+3- pegar a chave de roda.
+4- desparafusar cada um dos parafusos da roda.
+5- tirar a roda.
+6- colocar a roda reserva.
+7- colocar a roda.
+8- parafusar a roda.
+9- retirar o macaco.
+10- recolher o triângulo.
