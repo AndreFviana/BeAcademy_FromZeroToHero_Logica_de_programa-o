@@ -1,0 +1,5 @@
+const nota1 = 10
+const nota2 = 9
+const soma = nota1+nota2
+
+ console.log("Media das notas é ", (soma/2))
