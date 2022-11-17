@@ -1,0 +1,22 @@
+//Algoritmo menor,adulto ou idoso.
+const idade = 29
+
+if(idade <18); {
+  console.log("Menor de idade")
+   if (idade >=18 &&  60); 
+  console.log("Adulto");
+ }else {
+  console.log("Idoso");
+ }
+
+
+
+//algoritimo para barrar a entrada de menores de idade na festa
+const idade = 17
+
+if (idade>=18) {console.log("Pode entrar")}
+else {console.log("É menor de idade")}
+
+console.log(idade)
+
+
