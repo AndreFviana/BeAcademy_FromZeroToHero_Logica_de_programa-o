@@ -1,0 +1,20 @@
+//Algoritmo para mostrar o salario dos funcionários de uma empresa
+
+let salario;
+salario = 'gerente';
+
+switch (salario) {
+  case 'operário':
+  console.log('Recebe o minimo');
+  break;
+
+  case 'gerente':
+    console.log('Recebe 3 mil');
+    break;
+
+    case 'diretor':
+    console.log('Recebe 6 mil');
+    break;
+
+  default: console.log('funcionário não reconhecido');
+}
